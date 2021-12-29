@@ -3,7 +3,7 @@
 📝 **Personal website:** [https://mounabelaid.netlify.app/)
 http://i.imgur.com/wWzX9uB.png
 
-<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
+<a href="https://twitter.com/mounaa_belaid"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
 
 - I’m a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master’s degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and [Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
 
