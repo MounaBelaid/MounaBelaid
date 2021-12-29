@@ -1,7 +1,7 @@
 # Hi there, thank you for coming along!
 
 📝 **Personal website:** [https://mounabelaid.netlify.app/)
-![twitter](https://user-images.githubusercontent.com/17770692/147676643-de591a4a-aa84-4f96-8815-3ff628834c85.png)
+http://i.imgur.com/wWzX9uB.png
 🐦 **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
 
 - I’m a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master’s degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and [Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
