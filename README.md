@@ -1,6 +1,6 @@
 # Hi there, thank you for coming along!
 
-📝 **Personal website:** [https://mounabelaid.netlify.app/)
+📝 **Personal website:** https://mounabelaid.netlify.app/
 
 <a href="https://twitter.com/mounaa_belaid"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
 
