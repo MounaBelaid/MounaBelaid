@@ -1,10 +1,14 @@
 # Hi there, thank you for coming along!
 
+📝 **Personal website:** [https://mounabelaid.netlify.app/)
+![twitter](https://user-images.githubusercontent.com/17770692/147676643-de591a4a-aa84-4f96-8815-3ff628834c85.png)
+🐦 **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
+
 - I’m a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master’s degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and [Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
 
 - I was working a Data Scientist in the Banking industry specialized in Credit Risk management. I’m experienced in using data science tools like R, Python and SQL to build data solutions.
 
-- Currently, I’m encountering a new set of responsibilities as a Business Intelligence Consultant at [Prime Analytics](https://www.primeanalytics.fr/) based in Paris, France. My new role consists of proposing data solutions and strategies to business challenges after understanding customer requirements. I’m learning new technologies like Power BI, Tableau and Alteryx in order to make smart informed decisions. I’m delighted of being part of an international company that allows me to expand my work on an international scale and get larger responsibilities abroad.
+- Currently, I’m encountering a new set of responsibilities as a Business Intelligence Consultant at [Prime Analytics](https://www.primeanalytics.fr/) based in Paris, France. My role consists of proposing data solutions and strategies to business challenges after understanding customer requirements. I’m learning new technologies like Power BI, Tableau and Alteryx in order to make smart informed decisions. I’m delighted of being part of an international company that allows me to expand my work on an international scale and get larger responsibilities abroad.
 
 - I was also extremely happy to be selected as a [Diversity Scholar](https://drive.google.com/file/d/1KanOLRXW7GIuVtXTZMp3U_U1TLRJAAZ0/view?usp=sharing) in conjunction with the [rstudio::global virtual conference](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) in January 2021. This valuable scholarship gives me opportunities for online networking and support before and during the virtual conference.
 
