@@ -18,4 +18,4 @@
 
 - I’m also delighted to be part of the [R-Ladies Global](https://rladies.org/about-us/team/) Team as being responsible for the Onboarding Process. I love participating in widening the R-Ladies communities worldwide. As it was said: “Those who are happiest are those who do the most for others.” - Booker T. Washington
 
-- I’m so happy for being part of these great communities. These experiences are helping me to expand my network, meet amazing worldwide people, get inspired by them, and improving my R and Python skills.
+- I’m so happy for being part of these great communities. These experiences are helping me to expand my network, meet amazing people worldwide, get inspired by them, and improving my R and Python skills.
