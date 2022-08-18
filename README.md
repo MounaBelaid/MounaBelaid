@@ -2,7 +2,7 @@
 
 📝 **Personal website:** https://mounabelaid.netlify.app/
 
-<a href="https://twitter.com/mounaa_belaid"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
+<a href="https://twitter.com/mounaa_belaid"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter1.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
 
 <a href="[https://www.linkedin.com/in/mouna-belaid/](https://www.linkedin.com/in/mouna-belaid/)"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/linkedin.png?raw=true"></a> [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid/)
 
