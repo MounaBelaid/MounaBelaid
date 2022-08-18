@@ -4,6 +4,8 @@
 
 <a href="https://twitter.com/mounaa_belaid"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/twitter.png?raw=true"></a> **Twitter:** [@mounaa_belaid](https://twitter.com/mounaa_belaid)
 
+<a href="[https://www.linkedin.com/in/mouna-belaid/](https://www.linkedin.com/in/mouna-belaid/)"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/linkedin.png?raw=true"></a> [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid/)
+
 - I’m a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master’s degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and [Paris Descartes university](https://drive.google.com/file/d/1GHODY2FBoI9ZLopNlO3KEz4qOHhW73EO/view?usp=sharing).
 
 - I was working as a Data Scientist in the Banking industry specialized in Credit Risk management. I’m experienced in using data science tools like R, Python and SQL to build data solutions.
