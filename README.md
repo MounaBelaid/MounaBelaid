@@ -9,6 +9,8 @@
 
 <a href="[https://www.linkedin.com/in/mouna-belaid/](https://www.linkedin.com/in/mouna-belaid/)"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/linkedin1.png?raw=true"></a> **LinkedIn:** [Mouna Belaid](https://www.linkedin.com/in/mouna-belaid/)
 
+<a href="https://www.youtube.com/@mounabelaid/"><img height="30" src="https://github.com/MounaBelaid/MounaBelaid/blob/main/youtube (1).png?raw=true"></a> **YouTube:** [Mouna Belaid](https://www.youtube.com/@mounabelaid/)
+
 - I’m a passionate engineer in Statistics and Data Analysis, graduated from [ESSAI](http://www.essai.rnu.tn/en/) and holding a research master’s degree in Data processing and Complexity of Living Systems from [ENIT](http://www.enit.rnu.tn/fr/home/indexfr.php) and Paris Descartes university.
 
 - Throughout my professional experiences, I have gained proficiency in a variety of analytical tools, including R, Python, SQL, Alteryx, and Power BI. I’m also certified as a Carpentries instructor.
