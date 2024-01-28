@@ -1,6 +1,3 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MounaBelaid/langs?time_range=one_year&use_percent=True&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MounaBelaid/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
-
 # Hi there, thank you for coming along!
 
 📝 **Personal website:** https://mounabelaid.netlify.app/
