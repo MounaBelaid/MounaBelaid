@@ -16,12 +16,12 @@
 
 - In my current role as a Data Consultant at the French consulting company ArData, I specialize in using the R programming language. I'm involved in the creation of interactive data-driven web applications using Shiny, implementing effective data visualization practices, automating analytical processes, and providing training in R.
 
-- I was pleased to have been awarded the Opportunity 2023 Scholarship from Posit.
+- I was pleased to have been awarded the Opportunity Scholarship from Posit in 2023.
 
 - I was also extremely happy to be selected as a [Diversity Scholar](https://drive.google.com/file/d/1KanOLRXW7GIuVtXTZMp3U_U1TLRJAAZ0/view?usp=sharing) in conjunction with the [rstudio::global virtual conference](https://blog.rstudio.com/2020/11/30/diversity-scholarships/) in January 2021. This valuable scholarship gives me opportunities for online networking and support before and during the virtual conference.
 
-- I use many programming languages and softwares for building data solutions. I love programming, but I also love to organize communities within them effective knowledge sharing happens. That’s why I decided to combine these two, by co-foundering of two communities: [Tunis R User Group](https://www.meetup.com/tunis-r-user-group) and [PyLadies Tunis](https://www.meetup.com/pyladies-tunis/). I'm also lead of [R-Lades Paris](https://www.meetup.com/rladies-paris/) community and member of the [ArabR](https://arabr.github.io/) committee.
+- I use many programming languages and software for building data solutions. I love programming, but I also love to organize communities where effective knowledge-sharing happens. That’s why I decided to combine these two interests by co-foundering two communities: [Tunis R User Group](https://www.meetup.com/tunis-r-user-group) and [PyLadies Tunis](https://www.meetup.com/pyladies-tunis/). I'm also the lead of [R-Lades Paris](https://www.meetup.com/rladies-paris/) community and a member of the [ArabR](https://arabr.github.io/) committee.
 
 - I’m also delighted to be part of the [R-Ladies Global](https://rladies.org/about-us/team/) Team as being responsible for the Onboarding Process. I love participating in widening the R-Ladies communities worldwide. As it was said: “Those who are happiest are those who do the most for others.” - Booker T. Washington
 
-- I’m so happy for being part of these great communities. These experiences are helping me to expand my network, meet amazing people worldwide, get inspired by them, and improving my R and Python skills.
+- I’m so happy to be part of these great communities. These experiences are helping me to expand my network, meet amazing people worldwide, get inspired by them, and improve my R and Python skills.
